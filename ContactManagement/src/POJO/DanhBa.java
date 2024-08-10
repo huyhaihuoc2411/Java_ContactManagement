@@ -8,7 +8,7 @@ import java.util.Date;
 
 /**
  *
- * @author levan
+ * @author quochuy
  */
 public class DanhBa {
     public int MaLienHe;

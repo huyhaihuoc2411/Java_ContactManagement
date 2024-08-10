@@ -6,7 +6,7 @@ package POJO;
 
 /**
  *
- * @author admin
+ * @author quochuy
  */
 public class TaiKhoan {
     private int maTaiKhoan;

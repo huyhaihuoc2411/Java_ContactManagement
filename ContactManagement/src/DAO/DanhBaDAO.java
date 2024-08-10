@@ -25,7 +25,7 @@ import javax.swing.JFileChooser;
 import javax.swing.filechooser.FileNameExtensionFilter;
 /**
  *
- * @author levan
+ * @author quochuy
  */
 public class DanhBaDAO {
     public static ArrayList<DanhBa> showdsDB(int maTaiKhoan) {

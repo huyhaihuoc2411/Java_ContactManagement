@@ -11,7 +11,7 @@ import java.sql.ResultSet;
 
 /**
  *
- * @author levan
+ * @author quochuy
  */
 public class SQLServerDataProvider {
     private Connection connection;
